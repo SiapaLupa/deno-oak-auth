@@ -1,4 +1,3 @@
-// controllers/auth.ts file
 
 import { Context, Middleware } from "https://deno.land/x/oak@v12.1.0/mod.ts";
 import { UserCollection } from "../models/user.ts";
